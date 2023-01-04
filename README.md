@@ -1,7 +1,9 @@
 ### Hi there 👋
-[![@rezzy's Holopin board](https://holopin.me/rezzy)](https://holopin.io/@rezzy)
+Hi, my name’s Rezza, I’m a student from SMKN 4 Malang and I'm an extraordinary person.
+
 - 😄 Pronouns: he/him
-- Call me rezza, n call me if u need me 
+
+[![@rezzy's Holopin board](https://holopin.me/rezzy)](https://holopin.io/@rezzy)
 <!--
 **Rezza14/Rezza14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
