@@ -1,6 +1,7 @@
 ### Hi there 👋
 [![@rezzy's Holopin board](https://holopin.me/rezzy)](https://holopin.io/@rezzy)
 - 😄 Pronouns: he/him
+- Call me rezza, n call me if u need me 
 <!--
 **Rezza14/Rezza14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
