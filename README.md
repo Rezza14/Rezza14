@@ -3,7 +3,7 @@ Let me introduce myself 😁
 
 in a nutshell, my name’s Rezza. I currently live in Kepanjen, Malang, Jawa Timur, Indonesia.
 
-I’m a student from SMKN 4 Malang and I'm an extraordinary person.
+I’m a student from SMKN 4 Malang.
 
 - 😄 Pronouns: he/him
 
