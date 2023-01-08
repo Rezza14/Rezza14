@@ -3,7 +3,7 @@ Let me introduce myself 😁
 
 in a nutshell, my name’s Rezza. I currently live in Kepanjen, Malang, Jawa Timur, Indonesia.
 
-I’m a student from SMKN 4 Malang.
+I’m a student from SMKN 4 Malang and I'm a web developer. Currently I'm focusing in back end development with Laravel.
 
 - 😄 Pronouns: he/him
 
